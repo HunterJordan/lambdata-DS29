@@ -1,3 +1,0 @@
-from lambdata import FIBO
-
-
